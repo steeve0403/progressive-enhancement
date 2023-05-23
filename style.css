@@ -1,0 +1,9 @@
+body {
+    max-width: 90%;
+    margin: auto;
+}
+p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1em;
+    color: rgb(81, 80, 80);
+}
